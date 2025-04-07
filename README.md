@@ -26,7 +26,7 @@ Welcome to my showcase of custom demo websites built for local businesses! Each 
   - Clean and elegant UI for a refined dining atmosphere
 
 - **Live Demo:** [littlelemon-demo.com](https://yourbakerydemo.com)  
-- **Repo:** [GitHub](https://github.com/yourusername/little-lemon-demo)
+- **Repo:** [GitHub](https://isaacjyoo.github.io/Little-Lemon/)
 
 ---
 
