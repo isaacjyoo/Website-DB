@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Booking Page</title>
+    <link rel="stylesheet" href="book.css">
+</head>
+<body>
+<header>
+    <img src="home.png" height="240">
+</header>
+
+<nav>
+    <ul>
+        <li><a href="home.html">Home</a></li>
+        <li><a href="menu.html">Menu</a></li>
+        <li><a href="book.html">Book</a></li>
+        <li><a href="about.html">About</a></li>
+    </ul>
+</nav>
+
+    <main>
+ 
+        <section id="booking-form">
+            <h2>Book Your Meal:</h2>
+            <form action="/submit-booking" method="POST">
+                <div>
+                    <label for="name">Full Name:</label>
+                    <input type="text" id="name" name="name" required>
+                </div>
+                <div>
+                    <label for="email">Email Address:</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+                <div>
+                    <label for="phone">Phone Number:</label>
+                    <input type="tel" id="phone" name="phone">
+                </div>
+                <div>
+                    <label for="location">Select Location:</label>
+                    <select id="location" name="location" required>
+                        <option value="location1">--</option>
+                        <option value="location2">Indoor Booth</option>
+                        <option value="location3">Indoor Table</option>
+                        <option value="location4">Outdoor Table</option>
+                    </select>
+                </div>
+                <div>
+                    <label for="date">Preferred Date:</label>
+                    <input type="date" id="date" name="date" required>
+                </div>
+                <div>
+                    <label for="time">Preferred Time:</label>
+                    <input type="time" id="time" name="time" required>
+                </div>
+                <div>
+                    <label for="additional_info">Additional Information:</label>
+                    <input type="text" id="additional_info" name="additional_info" required>
+                </div>
+                <button type="submit">Book Now</button>
+            </form>
+        </section>
+    
+        <section id="additional-info">
+            <h3>Additional Information</h3>
+            <p>If you have any specific requests or need additional information, feel free to include them in the form above.</p>
+        </section>
+
+    </main>
+
+     <footer>
+        <div class="footer-content">
+            <img src="logo_footer.png" alt="Logo" class="footer-logo">
+            <p>&copy; 2024 Little Lemon Restaurant All rights reserved.</p>
+        </div>
+    </footer>
+    
+    <script src="home.js"></script>
+    </body>
+    </html>
