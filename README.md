@@ -13,20 +13,20 @@ Welcome to my showcase of custom demo websites built for local businesses! Each 
 
 ---
 
-## 🍰 Bakery Website Demo
+## 🍋 Bakery Website Demo
 
-**Demo Name:** *Sweet Bloom Bakery*
+**Demo Name:** *Little Lemon*
 
-**Description:** A warm and welcoming website for a local bakery, designed to showcase fresh goods, menu items, and location details.
+**Description:** A cozy and charming website for *Little Lemon*, a neighborhood bakery known for its handcrafted pastries and citrus-themed treats. Designed to highlight seasonal goods and attract new foot traffic.
 
 - **Features:**
-  - Homepage with hero banner and featured items
-  - Menu page with categories for baked goods
-  - Contact page with Google Maps embed and hours
-  - Testimonial slider from happy customers
+  - Hero banner with featured items
+  - Menu page with product categories (cupcakes, bread, desserts)
+  - Contact page with Google Maps, hours, and custom form
+  - Customer testimonials with animated slider
 
-- **Live Demo:** [sweetbloombakery-demo.com](https://yourbakerydemo.com)  
-- **Repo:** [GitHub](https://github.com/yourusername/bakery-demo)
+- **Live Demo:** [littlelemon-demo.com](https://yourbakerydemo.com)  
+- **Repo:** [GitHub](https://github.com/yourusername/little-lemon-demo)
 
 ---
 
@@ -80,4 +80,3 @@ Reach out at 📧 [youremail@example.com](mailto:youremail@example.com) or conne
 ---
 
 Thanks for visiting my demo collection!
-
