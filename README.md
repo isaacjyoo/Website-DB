@@ -17,13 +17,13 @@ Welcome to my showcase of custom demo websites built for local businesses! Each 
 
 **Demo Name:** *Little Lemon*
 
-**Description:** A cozy and charming website for *Little Lemon*, a neighborhood bakery known for its handcrafted pastries and citrus-themed treats. Designed to highlight seasonal goods and attract new foot traffic.
+**Description:** A sleek and vibrant website for *Little Lemon*, a contemporary Italian restaurant offering a rich Mediterranean dining experience. The design emphasizes visual appeal and ease of navigation, highlighting signature dishes through a dynamic slideshow on the homepage.
 
 - **Features:**
-  - Hero banner with featured items
-  - Menu page with product categories (cupcakes, bread, desserts)
-  - Contact page with Google Maps, hours, and custom form
-  - Customer testimonials with animated slider
+  - Slideshow of signature menu items with dish names and prices
+  - Navigation bar linking to Home, Menu, Booking, and About pages
+  - Responsive layout with stylish imagery and branded visuals
+  - Clean and elegant UI for a refined dining atmosphere
 
 - **Live Demo:** [littlelemon-demo.com](https://yourbakerydemo.com)  
 - **Repo:** [GitHub](https://github.com/yourusername/little-lemon-demo)
