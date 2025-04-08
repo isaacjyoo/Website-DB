@@ -13,7 +13,7 @@ Welcome to my showcase of custom demo websites built for local businesses! Each 
 
 ---
 
-## 🍋 Bakery Website Demo
+## 🍋 Restaurant Website Demo
 
 **Demo Name:** *Little Lemon*
 
