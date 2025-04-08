@@ -59,8 +59,8 @@ Welcome to my showcase of custom demo websites built for local businesses! Each 
   - About Us section with chef profiles
   - Live Google Maps embed and hours of operation
 
-- **Live Demo:** [casadelsol-demo.com](https://yourrestaurantdemo.com)  
-- **Repo:** [GitHub](https://github.com/yourusername/restaurant-demo)
+- **Live Demo:** (https://isaacjyoo.github.io/Bakery-Demo/)  
+- **Repo:** [GitHub](https://github.com/isaacjyoo/Bakery-Demo)
 
 ---
 
