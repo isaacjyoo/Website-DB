@@ -47,7 +47,7 @@ Welcome to my showcase of custom demo websites built for local businesses! Each 
 
 ---
 
-## 🍽️ Restaurant Website Demo
+## 🍽️ Bakery Website Demo
 
 **Demo Name:** *Casa Del Sol*
 
