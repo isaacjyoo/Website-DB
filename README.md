@@ -59,7 +59,7 @@ Welcome to my showcase of custom demo websites built for local businesses! Each 
   - About Us section with chef profiles
   - Live Google Maps embed and hours of operation
 
-- **Live Demo:** (https://isaacjyoo.github.io/Bakery-Demo/)  
+- **Live Demo:** https://isaacjyoo.github.io/Bakery-Demo/
 - **Repo:** [GitHub](https://github.com/isaacjyoo/Bakery-Demo)
 
 ---
