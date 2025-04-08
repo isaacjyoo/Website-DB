@@ -49,9 +49,9 @@ Welcome to my showcase of custom demo websites built for local businesses! Each 
 
 ## 🍽️ Bakery Website Demo
 
-**Demo Name:** *Casa Del Sol*
+**Demo Name:** *Sweet Crumbs*
 
-**Description:** A vibrant and elegant restaurant website designed to highlight the ambiance, menu, and reservation options.
+**Description:** A vibrant and bakery restaurant website designed to highlight the ambiance, menu, and customization options.
 
 - **Features:**
   - Interactive menu with dish categories
