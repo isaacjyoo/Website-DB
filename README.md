@@ -67,7 +67,7 @@ Welcome to my showcase of custom demo websites built for local businesses! Each 
 ## 💬 Interested in One for Your Business?
 
 Want a similar website customized for your own business?  
-Reach out at 📧 [youremail@example.com](mailto:youremail@example.com) or connect on [LinkedIn](https://linkedin.com/in/yourusername)!
+Reach out at 📧 06isaac8@gmail.com or 734-686-5178!
 
 ---
 
