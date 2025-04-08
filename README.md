@@ -30,23 +30,6 @@ Welcome to my showcase of custom demo websites built for local businesses! Each 
 
 ---
 
-## 🌿 Landscaping Website Demo
-
-**Demo Name:** *GreenScape Pros*
-
-**Description:** A professional and earthy website for a landscaping service, built to attract local homeowners and businesses.
-
-- **Features:**
-  - Services overview with icons and pricing estimates
-  - Photo gallery of past projects
-  - Contact form for booking consultations
-  - Testimonials and service area coverage map
-
-- **Live Demo:** [greenscapepros-demo.com](https://yourlandscapingdemo.com)  
-- **Repo:** [GitHub](https://github.com/yourusername/landscaping-demo)
-
----
-
 ## 🍽️ Bakery Website Demo
 
 **Demo Name:** *Sweet Crumbs*
