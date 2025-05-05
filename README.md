@@ -47,6 +47,23 @@ Welcome to my showcase of custom demo websites built for local businesses! Each 
 
 ---
 
+## 🍽️ Church Website Demo
+
+**Demo Name:** *AAHC*
+
+**Description:** A vibrant and bakery restaurant website designed to highlight the ambiance, menu, and customization options.
+
+- **Features:**
+  - Interactive menu with dish categories
+  - Online reservation form
+  - About Us section with chef profiles
+  - Live Google Maps embed and hours of operation
+
+- **Live Demo:** [https://isaacjyoo.github.io/Bakery-Demo/](https://isaacjyoo.github.io/AAHC/)
+- **Repo:** [GitHub](https://github.com/isaacjyoo/Bakery-Demo)
+
+---
+
 ## 💬 Interested in One for Your Business?
 
 Want a similar website customized for your own business?  
